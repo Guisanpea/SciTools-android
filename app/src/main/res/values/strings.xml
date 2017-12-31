@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SciTools</string>
+    <string name="binaryNumber">Binary Number:</string>
+    <string name="compute">Compute</string>
+    <string name="decRep">Decimal number:</string>
+</resources>
